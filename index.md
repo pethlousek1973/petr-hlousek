@@ -35,19 +35,22 @@ Zajímá mě business intelligence, reporting a práce s daty, která pomáhají
 
 ## Featured Projects
 
-### Sales Dashboard Analysis
+### [Sales Dashboard Analysis](https://github.com/tvoje-jmeno/sales-dashboard)
 
 Power BI dashboard zaměřený na analýzu KPI, revenue trends a obchodní výkonnosti.
 
-### SQL Customer Segmentation
+### [SQL Customer Segmentation](https://github.com/tvoje-jmeno/sql-customer-segmentation)
 
 Segmentace zákazníků pomocí SQL analýzy chování, retence a customer lifetime value.
 
-### Python Data Cleaning Project
+### [Python Data Cleaning Project](https://github.com/tvoje-jmeno/python-data-cleaning)
 
 Čištění a preprocessing dat pomocí Pythonu a knihovny Pandas včetně automatizace reportingu.
 
 ---
+## Resume
+
+[📄 Download My Resume (PDF)](cv.pdf)
 
 ## Contact
 
